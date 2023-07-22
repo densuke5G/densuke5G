@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **densuke5G/densuke5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-introduction
+##### introduction
 
 - 🔭 I'm a student of programing school, "DMM WEBCAMP".
 - 🌱 I’m currently learning Ruby on Rails, also interested in Python!
 - 🤔 I’m looking for help with ...
+- ⚡ Fun fact: Generative AI, Deep learning!
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+### 💪 I made a portfolio ! 
+[徒歩キャン](https://kachicamp.com)
+* review-site, for campground in Japan
+* Coding Ruby on rails
