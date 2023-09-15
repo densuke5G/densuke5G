@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ##### introduction
 
-- 🔭 I'm a student of programing school, "DMM WEBCAMP".
-- 🌱 I’m currently learning Ruby on Rails, also interested in Python!
+- 🔭 I was a student of programing school, "DMM WEBCAMP".
+- 🌱 I’m currently learning Python🐍, also interested in Java☕!
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: Generative AI, Deep learning!
 - 💬 Ask me about ...
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ### 💪 I made a portfolio ! 
 #### ⛺ [徒歩キャン](https://kachicamp.com)
-* review-site, for campground in Japan
-* It works MON-FRI, 9:00~20:00 JPN
-* Coding by Ruby on rails, html, css
+* Review-site, for campground in Japan
+* Server works in MON-FRI, 9:00~20:00 JPN
+* Coding by Ruby on rails🛤️, html, css, javascript
